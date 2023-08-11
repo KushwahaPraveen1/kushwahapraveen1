@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushwahapraveen1&label=Profile%20views&color=0e75b6&style=flat" alt="kushwahapraveen1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushwahapraveen1" alt="kushwahapraveen1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/praveen03808366" target="blank"><img src="https://img.shields.io/twitter/follow/praveen03808366?logo=twitter&style=for-the-badge" alt="praveen03808366" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Development, Node-JS**
